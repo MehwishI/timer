@@ -1,0 +1,5 @@
+{
+  "audioCues.chatRequestSent": "on",
+  "audioCues.chatResponsePending": "on",
+  "audioCues.chatResponseReceived": "on"
+}
